@@ -1,7 +1,7 @@
 {
-  "version": "0.5.0",
-  "minNative": "0.5.0",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-mobile-releases/main/v0.5.0/bundle.zip",
-  "apk": "https://raw.githubusercontent.com/cursing/techmate-mobile-releases/main/v0.5.0/TechMate-0.5.0.apk",
-  "notes": "Εικονίδιο, ενημερώσεις μέσα από την εφαρμογή, κατάσταση προσφοράς, πελάτες, εργασίες"
+  "version": "0.5.1",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-mobile-releases/main/v0.5.1/bundle.zip",
+  "notes": "Λογιστικά: σύνοψη, παραστατικά, πληρωμές, υπόλοιπα",
+  "apk": "https://raw.githubusercontent.com/cursing/techmate-mobile-releases/main/v0.5.1/TechMate-0.5.1.apk",
+  "minNative": "0.5.0"
 }
