@@ -1,8 +1,8 @@
 {
-  "version": "0.5.2",
-  "zip": "https://raw.githubusercontent.com/cursing/techmate-mobile-releases/main/v0.5.2/bundle.zip",
-  "sha256": "6396e96da33df8a2bdbe54f13c596b0a7fd160a64408d7e5ff4999592a71150b",
-  "notes": "Διόρθωση ενημερώσεων, Λογιστικά, νέο εικονίδιο",
+  "version": "0.5.3",
+  "zip": "https://raw.githubusercontent.com/cursing/techmate-mobile-releases/main/v0.5.3/bundle.zip",
+  "sha256": "ff6a5830187978a8297cc4f3bd8568b2ed2adbb44cb2f7ac67762b8005f18b2c",
+  "notes": "Δοκιμή αυτόματης ενημέρωσης",
   "apk": "https://raw.githubusercontent.com/cursing/techmate-mobile-releases/main/v0.5.2/TechMate-0.5.2.apk",
   "minNative": "0.5.2"
 }
